@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\School\\CS4412\\Exercise 1\\CS4412Ex1DoughertyIsabella\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8866D591-AA21-497C-97B2-4C872E0CD97E}|CS4412Ex1DoughertyIsabella.vcxproj|E:\\School\\CS4412\\Exercise 1\\CS4412Ex1DoughertyIsabella\\CS4412Ex1DoughertyIsabella.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8866D591-AA21-497C-97B2-4C872E0CD97E}|CS4412Ex1DoughertyIsabella.vcxproj|solutionrelative:CS4412Ex1DoughertyIsabella.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CS4412Ex1DoughertyIsabella.cpp",
+              "DocumentMoniker": "E:\\School\\CS4412\\Exercise 1\\CS4412Ex1DoughertyIsabella\\CS4412Ex1DoughertyIsabella.cpp",
+              "RelativeDocumentMoniker": "CS4412Ex1DoughertyIsabella.cpp",
+              "ToolTip": "E:\\School\\CS4412\\Exercise 1\\CS4412Ex1DoughertyIsabella\\CS4412Ex1DoughertyIsabella.cpp",
+              "RelativeToolTip": "CS4412Ex1DoughertyIsabella.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-27T06:10:11.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
